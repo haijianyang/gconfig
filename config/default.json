@@ -1,0 +1,16 @@
+{
+  "redis": {
+    "host": "127.0.0.1",
+    "port": 6379
+  },
+  "file": {
+    "host": "127.0.0.1",
+    "port": 6379
+  },
+  "fileCover": {
+    "str": "str"
+  },
+  "fileDefault": {
+    "str": "str"
+  }
+}

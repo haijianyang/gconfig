@@ -1,0 +1,40 @@
+{
+  "db": {
+    "user": "haijianyang",
+    "password": "123456"
+  },
+  "file": {
+    "bval": true,
+    "ival": 1,
+    "i32": 32,
+    "i64": 64,
+    "str": "str",
+    "obj": {
+      "bval": true,
+      "ival": 1,
+      "i32": 32,
+      "i64": 64,
+      "str": "str"
+    }
+  },
+  "fileCover": {
+    "str": "cover_str"
+  },
+  "env": {
+    "bval": true,
+    "ival": 1,
+    "i32": 32,
+    "i64": 64,
+    "str": "str",
+    "obj": {
+      "bval": true,
+      "ival": 1,
+      "i32": 32,
+      "i64": 64,
+      "str": "str"
+    }
+  },
+  "cover": {
+    "str": "str"
+  }
+}
